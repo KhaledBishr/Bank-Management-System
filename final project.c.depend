@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1704094865 source:c:\users\dell\downloads\final project.c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+
+1704094865 source:d:\term3.cce\programming-1\final project.c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+

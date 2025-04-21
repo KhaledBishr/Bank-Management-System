@@ -1,0 +1,7 @@
+transaction is deposited by amount 20.00$
+transaction is deposited by amount 20.00$
+transaction is deposited by amount 20.00$
+transaction is deposited by amount 20.00$
+Transaction is transfered to 9700000000 by amount 80.00$
+transaction is deposited by amount 20.00$
+Transaction is transfered to 9700000000 by amount 20.00$
