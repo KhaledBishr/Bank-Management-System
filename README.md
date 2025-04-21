@@ -98,6 +98,4 @@ ziad.ali 123abc
 - Data validation is enforced throughout the program
 - Error messages help guide user input
 - History is maintained for each transaction
-- Cheating policy strictly enforced – all code is original
-
 ---
